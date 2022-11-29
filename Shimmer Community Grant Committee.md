@@ -2,19 +2,42 @@
 
 
 
-# Shimmer Community Grant Committee - Version 2
+# Shimmer Community Grant Committee - Version 3 (30/11/22)
 
 
 
 
 ## Boosting the Shimmer Ecosystem as a community 
 
-This is the second and updated version of a proposal that was created by a group of community members who care about the Shimmer ecosystem's development and the network's success. We have met every Tuesday and Thursday in the IOTA Discord general voice channel, and all these topics have been publicly discussed, and the proposal was developed and fine-tuned in these meetings. Core contributors have been: @Deep_Sea @AndyW @gman214 @overclocked @Werner @TonyO2 @Linus @DigitalSoul.x  and many others that took part in the calls and added context to the proposal. Read the **[First Version](https://govern.iota.org/t/shimmer-community-grant-committee/1415)**
+This is the third version of a proposal created by a group of community members who care about the Shimmer ecosystem's development and the network's success. We have met every Tuesday and Thursday in the IOTA Discord general voice channel, and all these topics have been publicly discussed, and the proposal was developed and fine-tuned in these meetings. Core contributors have been: @Deep_Sea @AndyW @gman214 @overclocked @Werner @TonyO2 @Linus @DigitalSoul.x  and many others took part in the calls and added context to the proposal. Read the **[First Version](https://govern.iota.org/t/shimmer-community-grant-committee/1415)** and the **[Second version](https://govern.iota.org/t/shimmer-community-treasury-grant-committee-version-2/1437)**
+You can watch all recordings of those meetings here: https://youtube.com/playlist?list=PL5joP0FyJQU4eKPWfQWradNVjMIPq86ID.
 
-You can watch all recordings of those meetings here: https://youtube.com/playlist?list=PL5joP0FyJQU4eKPWfQWradNVjMIPq86ID
+**Reason for the updated version 3:**
+
+**1.)** We have recently started the application process for Grant Reviewers and Committee Lead based on this framework, and development became evident that we had not considered it in all those months of developing this framework. **This is the issue we want to address:**
+
+- Grant reviewers are allowed to have affiliations with projects. We are happy about getting experienced ecosystem builders as part of the committee.
+- Many applicants have shown interest in becoming grant reviewers and submitted they're [applications](https://govern.iota.org/c/shimmer-governance-proposals/community-treasury-grant-reviewer-applications/58) in the governance forum.
+- Through the currently received 23 applicants for a front reviewer position, we have seen that several ecosystem projects are represented by multiple candidates that are either direct team members or strongly affiliated with the same project.
+- In the worst-case scenario, this could lead to a situation in which all 4 Grant reviewers voted in by the community are members of the same ecosystem project.
+- We must avoid such a situation for two reasons:
+    - Very likely, there would be high doubts in the community about the neutrality and fairness of decisions taken by such a committee
+    - As Reviewers are not allowed to review applications from projects where a conflict of interest exists for them, we could find ourselves in a situation where we could not review an application because not a single of the committee members would be allowed to check it. This would make the daily business of the grant committee overly complex and sometimes impossible.
+
+The creators of this proposal have recognized this issue in our initial proposal, and many community members have contacted us and raised their concerns. Therefore we have decided in our meeting on 22 November to limit the number of committee members from the same project that are allowed to be permanent members of the Grant committee to **ONE PER PROJECT.**
+
+### How do we move forward, and what does it mean now?
+
+We have a **[list of the current applicants](https://shimmergov.notion.site/441f4c62afdd49faa8e14bafeef4b20a?v=7c11a55b31d0437fbba0829d81478745)** and their affiliations and grouped them to see who belongs to which projects.
+
+**For the upcoming Phase 2 of the selection process, we will only take the candidate of every project with the highest vote count into the next round. Of course, all current applicants also have the chance to withdraw their application until Friday, the 2 December, at 2 pm CET.**
+
+- A Paragraph that clarifies this change of the rules has therefore been added to the Requirements for Committee Members in the specification section of this proposal.
+
+**2.)** One of the points required to receive a grant is stated as "The whole project team does KYC" - if we had a Team of 20 people or even a bigger company etc., asking for a grant would require every team member of this company to do KYC. This is an overly complicated and costly process. Therefore we reduce the requirement for KYC to a maximum of 3 members for the Tier 3 and Tier 4 grants.
 
 Please read carefully and leave comments and suggestions in this thread.
-The selection process for potential committee members is specified in **[this forum post](https://govern.iota.org/t/community-grant-committee-selection-proccess-specification/1436)**
+
 
 **If you like the idea, please show your support [by voting in the poll](https://govern.iota.org/t/shimmer-community-grant-committee-version-2/1437#h-7-poll-26) at the end of this proposal.**
 
@@ -122,6 +145,7 @@ One of them is the **Program Lead**, which, besides reviewing funding requests, 
 ### **Requirements for Committee members:**
 * All committee members will do KYC to reveal and verify their identity and sign a legally binding contract (employment or service provider) with the legal entity.
 * All committee members must reveal any potential conflicts of interest in becoming a committee member. They need to indicate if they currently are or have been in the past part of a team in a DLT project or have other connections or affiliations to projects or teams that could cause a conflict of interest. A conflict of interest policy needs to be accepted and signed.
+* To ensure a committee structure that provides different views and makes decisions as neutral as possible, the maximum number of committee members from a Team is limited to **one member per Team**. A team, in this sense, is defined as any organization that causes a conflict of interest by being affiliated as a team member or earning a salary, payment for services or commission from the project.
 * A committee member cannot be involved in evaluating any proposal that would cause a conflict of interest. The other grant reviewers will handle such cases without involving the member with has the conflict. Conflicts of interest are not exclusion criteria for committee members; they just need to be declared. The reviewer will not take part in the decision-making process for such specific grants that would cause a conflict of interest.
 * The Programm Lead and the Co-Lead are prohibited from holding any paid position within a Crypto project. 
 * All members will sign NDAs and Insider Trading disclosures.
@@ -129,6 +153,9 @@ One of them is the **Program Lead**, which, besides reviewing funding requests, 
 
 ### **Selection process for committee members and the Program Lead:**
 - Please review [the selection process specification](https://govern.iota.org/t/community-grant-committee-selection-proccess-specification/1436) that describes the community-driven selection process
+- Phase 1 has started on Nov 6th - you can check the applications here:
+    - [Grant Committee Lead applications](https://govern.iota.org/c/shimmer-governance-proposals/shimmer-community-treasury-coommittee-lead-appli/59)
+    - [Grant Reviwewer Applications](https://govern.iota.org/c/shimmer-governance-proposals/community-treasury-grant-reviewer-applications/58)
 
 
 
@@ -188,9 +215,9 @@ The committee will host a publicly accessible database (Notion) where all accept
 * No grants are given out as long as the Market cap of Shimmer is **below 50 Million USD**
 * Grants will be given out with **low Tier values** if the market cap of Shimmer is **between 50 and 100 million USD**
 * Grants will be given out with the **Regular Tier values** if the market cap of Shimmer is **above 100 million USD**
-* **Tier 1 - up to 5.000 USD**: Two reviewers handle the proposal and approve or decline it within two business days after submission. KYC is required for Tier 1 project teams. The reviewers will decide based on the provided data in the application and especially consider if the submitter has a positive history in our community. As soon as funding is approved, the proposal will be funded within two business days after KYC is completed.
-* **Tier 2 - Low Tier 5.000 - 25.000 / Regular Tier 5.000 - 50.000 USD**: Two reviewers review the proposal. The team must do KYC. Projects considered to be approved can be invited to conduct a 1-hour interview with the reviewers of the proposal. A minimum of two milestones will be defined, and payments will happen based on these milestones. After completing the KYC process, the committee can pay up to 50% of the requested funding upfront.
-* **Tier 3: Low Tier 25.000 - 100.000 / Regular Tier 50.000 - 200.000 USD**: Same requirements as the previous tier apply. The whole Project Team must do KYC. Additionally, applications need approval by the entire grant committee. Projects that are considered to be approved will be invited to present the idea in an extensive live interview with two grant reviewers and the Program Lead. A minimum of three milestones are defined, and payments happen based on these milestones.
+* **Tier 1 - up to 5.000 USD**: Two reviewers handle the proposal and approve or decline it within two business days after submission. KYC is required for Tier 1 project teams (max 3 members doing KYC). The reviewers will decide based on the provided data in the application and especially consider if the submitter has a positive history in our community. As soon as funding is approved, the proposal will be funded within two business days after KYC is completed.
+* **Tier 2 - Low Tier 5.000 - 25.000 / Regular Tier 5.000 - 50.000 USD**: Two reviewers review the proposal. The team must do KYC (max 3 members doing KYC). Projects considered to be approved can be invited to conduct a 1-hour interview with the reviewers of the proposal. A minimum of two milestones will be defined, and payments will happen based on these milestones. After completing the KYC process, the committee can pay up to 50% of the requested funding upfront.
+* **Tier 3: Low Tier 25.000 - 100.000 / Regular Tier 50.000 - 200.000 USD**: Same requirements as the previous tier apply. The Project Team must do KYC (max 3 members doing KYC). Additionally, applications need approval by the entire grant committee. Projects that are considered to be approved will be invited to present the idea in an extensive live interview with two grant reviewers and the Program Lead. A minimum of three milestones are defined, and payments happen based on these milestones.
 
     If the project is accepted, the Program Lead will assign one of the reviewers as a project steward. The steward is responsible for keeping close contact and doing regular (minimum every two weeks) checks with the project team. Milestones are reviewed by the steward and approved by the committee Lead. After completing the KYC process, the Program can pay 30% of the requested funding upfront.
 
